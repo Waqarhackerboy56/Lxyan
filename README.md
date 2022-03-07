@@ -12,3 +12,11 @@
         ( cd Lxyan
         ( git pull
         ( python yanp.py
+
+
+
+                  TEAM PROJECT :
+
+[1 Viko
+[2 Lxyan
+JANGAN LUPA FOLLOW GITHUB SAYA DAN KASIH BINTANG NYA :)
